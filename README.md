@@ -1,3 +1,4 @@
 # test_demo
 test_demo
-test ssh
+1)test ssh
+2) test commit in github, git pull in ec2 
